@@ -1,0 +1,161 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1729084960697,1206,Login,200,OK,Thread Group - Reqres 1-3,text,true,,866,295,10,10,https://reqres.in/api/login,1206,0,719
+1729084960796,1083,Login,200,OK,Thread Group - Reqres 1-4,text,true,,866,295,10,10,https://reqres.in/api/login,1083,0,618
+1729084960677,1226,Login,200,OK,Thread Group - Reqres 1-2,text,true,,866,295,10,10,https://reqres.in/api/login,1225,0,735
+1729084961193,710,Login,200,OK,Thread Group - Reqres 1-8,text,true,,866,295,10,10,https://reqres.in/api/login,710,0,222
+1729084961288,591,Login,200,OK,Thread Group - Reqres 1-9,text,true,,866,295,10,10,https://reqres.in/api/login,591,0,126
+1729084961093,810,Login,200,OK,Thread Group - Reqres 1-7,text,true,,866,295,10,10,https://reqres.in/api/login,810,0,324
+1729084960677,1201,Login,200,OK,Thread Group - Reqres 1-1,text,true,,866,295,10,10,https://reqres.in/api/login,1201,0,735
+1729084960996,883,Login,200,OK,Thread Group - Reqres 1-6,text,true,,866,295,10,10,https://reqres.in/api/login,883,0,417
+1729084961394,509,Login,200,OK,Thread Group - Reqres 1-10,text,true,,866,295,10,10,https://reqres.in/api/login,509,0,33
+1729084960900,1012,Login,200,OK,Thread Group - Reqres 1-5,text,true,,866,295,10,10,https://reqres.in/api/login,1012,0,514
+1729084962044,343,Get List of Users,200,OK,Thread Group - Reqres 1-4,text,true,,1891,220,10,10,https://reqres.in/api/users?page=2,343,0,0
+1729084962043,340,Get List of Users,200,OK,Thread Group - Reqres 1-9,text,true,,1891,220,10,10,https://reqres.in/api/users?page=2,340,0,0
+1729084962044,343,Get List of Users,200,OK,Thread Group - Reqres 1-6,text,true,,1891,220,10,10,https://reqres.in/api/users?page=2,343,0,0
+1729084962043,341,Get List of Users,200,OK,Thread Group - Reqres 1-10,text,true,,1891,220,10,10,https://reqres.in/api/users?page=2,340,0,0
+1729084962044,341,Get List of Users,200,OK,Thread Group - Reqres 1-5,text,true,,1891,220,10,10,https://reqres.in/api/users?page=2,341,0,0
+1729084962044,344,Get List of Users,200,OK,Thread Group - Reqres 1-7,text,true,,1891,220,10,10,https://reqres.in/api/users?page=2,344,0,0
+1729084962043,349,Get List of Users,200,OK,Thread Group - Reqres 1-1,text,true,,1891,220,10,10,https://reqres.in/api/users?page=2,349,0,0
+1729084962043,352,Get List of Users,200,OK,Thread Group - Reqres 1-3,text,true,,1891,220,10,10,https://reqres.in/api/users?page=2,351,0,0
+1729084962043,352,Get List of Users,200,OK,Thread Group - Reqres 1-8,text,true,,1891,220,10,10,https://reqres.in/api/users?page=2,352,0,0
+1729084962044,351,Get List of Users,200,OK,Thread Group - Reqres 1-2,text,true,,1891,220,10,10,https://reqres.in/api/users?page=2,351,0,0
+1729084962502,341,Create User,201,Created,Thread Group - Reqres 1-5,text,true,,940,298,10,10,https://reqres.in/api/users,340,0,0
+1729084962500,343,Create User,201,Created,Thread Group - Reqres 1-3,text,true,,940,298,10,10,https://reqres.in/api/users,343,0,0
+1729084962500,343,Create User,201,Created,Thread Group - Reqres 1-4,text,true,,940,298,10,10,https://reqres.in/api/users,342,0,0
+1729084962499,345,Create User,201,Created,Thread Group - Reqres 1-1,text,true,,940,298,10,10,https://reqres.in/api/users,345,0,0
+1729084962502,342,Create User,201,Created,Thread Group - Reqres 1-9,text,true,,940,298,10,10,https://reqres.in/api/users,342,0,0
+1729084962500,347,Create User,201,Created,Thread Group - Reqres 1-6,text,true,,940,298,10,10,https://reqres.in/api/users,347,0,0
+1729084962500,348,Create User,201,Created,Thread Group - Reqres 1-8,text,true,,940,298,10,10,https://reqres.in/api/users,348,0,0
+1729084962500,351,Create User,201,Created,Thread Group - Reqres 1-10,text,true,,939,298,10,10,https://reqres.in/api/users,350,0,0
+1729084962499,354,Create User,201,Created,Thread Group - Reqres 1-2,text,true,,940,298,10,10,https://reqres.in/api/users,354,0,0
+1729084962499,358,Create User,201,Created,Thread Group - Reqres 1-7,text,true,,940,298,10,10,https://reqres.in/api/users,358,0,0
+1729084962952,343,Create User - Using CSV,201,Created,Thread Group - Reqres 1-1,text,true,,930,284,10,10,https://reqres.in/api/users,343,0,0
+1729084962952,343,Create User - Using CSV,201,Created,Thread Group - Reqres 1-4,text,true,,928,283,10,10,https://reqres.in/api/users,343,0,0
+1729084962952,344,Create User - Using CSV,201,Created,Thread Group - Reqres 1-5,text,true,,930,284,10,10,https://reqres.in/api/users,343,0,0
+1729084962952,344,Create User - Using CSV,201,Created,Thread Group - Reqres 1-3,text,true,,928,282,10,10,https://reqres.in/api/users,344,0,0
+1729084962952,347,Create User - Using CSV,201,Created,Thread Group - Reqres 1-8,text,true,,929,283,10,10,https://reqres.in/api/users,347,0,0
+1729084962952,351,Create User - Using CSV,201,Created,Thread Group - Reqres 1-9,text,true,,930,284,10,10,https://reqres.in/api/users,351,0,0
+1729084962967,340,Create User - Using CSV,201,Created,Thread Group - Reqres 1-2,text,true,,928,282,10,10,https://reqres.in/api/users,340,0,0
+1729084962952,364,Create User - Using CSV,201,Created,Thread Group - Reqres 1-6,text,true,,928,282,10,10,https://reqres.in/api/users,364,0,0
+1729084962967,351,Create User - Using CSV,201,Created,Thread Group - Reqres 1-7,text,true,,928,282,10,10,https://reqres.in/api/users,351,0,0
+1729084962967,356,Create User - Using CSV,201,Created,Thread Group - Reqres 1-10,text,true,,928,282,10,10,https://reqres.in/api/users,355,0,0
+1729084963404,340,Create User Randomly,201,Created,Thread Group - Reqres 1-1,text,false,Test failed: headers expected to contain /Md. Niaz Morshed/,955,308,10,10,https://reqres.in/api/users,339,0,0
+1729084963404,341,Create User Randomly,201,Created,Thread Group - Reqres 1-3,text,false,Test failed: headers expected to contain /Md. Niaz Morshed/,954,308,10,10,https://reqres.in/api/users,340,0,0
+1729084963404,343,Create User Randomly,201,Created,Thread Group - Reqres 1-5,text,false,Test failed: headers expected to contain /Md. Niaz Morshed/,955,308,10,10,https://reqres.in/api/users,342,0,0
+1729084963404,347,Create User Randomly,201,Created,Thread Group - Reqres 1-4,text,false,Test failed: headers expected to contain /Md. Niaz Morshed/,955,308,10,10,https://reqres.in/api/users,347,0,0
+1729084963407,350,Create User Randomly,201,Created,Thread Group - Reqres 1-9,text,false,Test failed: headers expected to contain /Md. Niaz Morshed/,955,308,10,10,https://reqres.in/api/users,350,0,0
+1729084963404,360,Create User Randomly,201,Created,Thread Group - Reqres 1-8,text,false,Test failed: headers expected to contain /Md. Niaz Morshed/,955,308,10,10,https://reqres.in/api/users,360,0,0
+1729084963420,351,Create User Randomly,201,Created,Thread Group - Reqres 1-6,text,false,Test failed: headers expected to contain /Md. Niaz Morshed/,955,308,10,10,https://reqres.in/api/users,351,0,0
+1729084963420,351,Create User Randomly,201,Created,Thread Group - Reqres 1-7,text,false,Test failed: headers expected to contain /Md. Niaz Morshed/,954,308,10,10,https://reqres.in/api/users,351,0,0
+1729084963420,355,Create User Randomly,201,Created,Thread Group - Reqres 1-2,text,false,Test failed: headers expected to contain /Md. Niaz Morshed/,954,308,10,10,https://reqres.in/api/users,355,0,0
+1729084963435,349,Create User Randomly,201,Created,Thread Group - Reqres 1-10,text,false,Test failed: headers expected to contain /Md. Niaz Morshed/,955,308,10,10,https://reqres.in/api/users,348,0,0
+1729084963856,346,Update User,200,OK,Thread Group - Reqres 1-4,text,true,,933,300,10,10,https://reqres.in/api/users/2,346,0,0
+1729084963856,347,Update User,200,OK,Thread Group - Reqres 1-5,text,true,,933,300,10,10,https://reqres.in/api/users/2,347,0,0
+1729084963856,349,Update User,200,OK,Thread Group - Reqres 1-1,text,true,,933,300,10,10,https://reqres.in/api/users/2,349,0,0
+1729084963856,352,Update User,200,OK,Thread Group - Reqres 1-3,text,true,,933,300,10,10,https://reqres.in/api/users/2,352,0,0
+1729084963872,339,Update User,200,OK,Thread Group - Reqres 1-8,text,true,,933,300,10,10,https://reqres.in/api/users/2,339,0,0
+1729084963872,347,Update User,200,OK,Thread Group - Reqres 1-9,text,true,,933,300,10,10,https://reqres.in/api/users/2,346,0,0
+1729084963887,341,Update User,200,OK,Thread Group - Reqres 1-2,text,true,,933,300,10,10,https://reqres.in/api/users/2,341,0,0
+1729084963887,346,Update User,200,OK,Thread Group - Reqres 1-7,text,true,,933,300,10,10,https://reqres.in/api/users/2,346,0,0
+1729084963887,350,Update User,200,OK,Thread Group - Reqres 1-10,text,true,,933,300,10,10,https://reqres.in/api/users/2,350,0,0
+1729084963887,357,Update User,200,OK,Thread Group - Reqres 1-6,text,true,,933,300,10,10,https://reqres.in/api/users/2,357,0,0
+1729084964312,338,Partially Update User,200,OK,Thread Group - Reqres 1-4,text,true,,940,309,10,10,https://reqres.in/api/users/2,338,0,0
+1729084964312,340,Partially Update User,200,OK,Thread Group - Reqres 1-1,text,true,,940,309,10,10,https://reqres.in/api/users/2,340,0,0
+1729084964312,342,Partially Update User,200,OK,Thread Group - Reqres 1-3,text,true,,940,309,10,10,https://reqres.in/api/users/2,342,0,0
+1729084964312,346,Partially Update User,200,OK,Thread Group - Reqres 1-5,text,true,,940,309,10,10,https://reqres.in/api/users/2,346,0,0
+1729084964327,339,Partially Update User,200,OK,Thread Group - Reqres 1-8,text,true,,940,309,10,10,https://reqres.in/api/users/2,339,0,0
+1729084964327,355,Partially Update User,200,OK,Thread Group - Reqres 1-9,text,true,,940,309,10,10,https://reqres.in/api/users/2,355,0,0
+1729084964342,344,Partially Update User,200,OK,Thread Group - Reqres 1-2,text,true,,940,309,10,10,https://reqres.in/api/users/2,344,0,0
+1729084964342,344,Partially Update User,200,OK,Thread Group - Reqres 1-7,text,true,,940,309,10,10,https://reqres.in/api/users/2,344,0,0
+1729084964342,344,Partially Update User,200,OK,Thread Group - Reqres 1-10,text,true,,940,309,10,10,https://reqres.in/api/users/2,344,0,0
+1729084964357,342,Partially Update User,200,OK,Thread Group - Reqres 1-6,text,true,,940,309,10,10,https://reqres.in/api/users/2,341,0,0
+1729084964764,351,Endpoint Is Incorrect,404,Not Found,Thread Group - Reqres 1-3,text,false,,7755,207,10,10,https://reqres.in/api,349,0,0
+1729084964764,352,Endpoint Is Incorrect,404,Not Found,Thread Group - Reqres 1-5,text,false,,7755,207,10,10,https://reqres.in/api,352,0,0
+1729084964764,353,Endpoint Is Incorrect,404,Not Found,Thread Group - Reqres 1-4,text,false,,7755,207,10,10,https://reqres.in/api,352,0,0
+1729084964764,353,Endpoint Is Incorrect,404,Not Found,Thread Group - Reqres 1-1,text,false,,7755,207,10,10,https://reqres.in/api,352,0,0
+1729084964780,355,Endpoint Is Incorrect,404,Not Found,Thread Group - Reqres 1-8,text,false,,7755,207,10,10,https://reqres.in/api,352,0,0
+1729084964795,340,Endpoint Is Incorrect,404,Not Found,Thread Group - Reqres 1-2,text,false,,7755,207,10,10,https://reqres.in/api,338,0,0
+1729084964795,350,Endpoint Is Incorrect,404,Not Found,Thread Group - Reqres 1-7,text,false,,7755,207,10,10,https://reqres.in/api,348,0,0
+1729084964795,352,Endpoint Is Incorrect,404,Not Found,Thread Group - Reqres 1-10,text,false,,7755,207,10,10,https://reqres.in/api,348,0,0
+1729084964810,340,Endpoint Is Incorrect,404,Not Found,Thread Group - Reqres 1-6,text,false,,7755,207,10,10,https://reqres.in/api,338,0,0
+1729084964795,429,Endpoint Is Incorrect,404,Not Found,Thread Group - Reqres 1-9,text,false,,7755,207,10,10,https://reqres.in/api,420,0,0
+1729084965230,345,Delete User,204,No Content,Thread Group - Reqres 1-5,,true,,796,237,10,10,https://reqres.in/api/users/2,0,0,0
+1729084965230,348,Delete User,204,No Content,Thread Group - Reqres 1-4,,true,,796,237,10,10,https://reqres.in/api/users/2,0,0,0
+1729084965245,343,Delete User,204,No Content,Thread Group - Reqres 1-8,,true,,796,237,10,10,https://reqres.in/api/users/2,0,0,0
+1729084965230,362,Delete User,204,No Content,Thread Group - Reqres 1-3,,true,,796,237,10,10,https://reqres.in/api/users/2,0,0,0
+1729084965245,354,Delete User,204,No Content,Thread Group - Reqres 1-2,,true,,796,237,10,10,https://reqres.in/api/users/2,0,0,0
+1729084965260,343,Delete User,204,No Content,Thread Group - Reqres 1-7,,true,,796,237,10,10,https://reqres.in/api/users/2,0,0,0
+1729084965260,348,Delete User,204,No Content,Thread Group - Reqres 1-6,,true,,796,237,10,10,https://reqres.in/api/users/2,0,0,0
+1729084965230,380,Delete User,204,No Content,Thread Group - Reqres 1-1,,true,,796,237,10,10,https://reqres.in/api/users/2,0,0,0
+1729084965260,351,Delete User,204,No Content,Thread Group - Reqres 1-10,,true,,796,237,10,10,https://reqres.in/api/users/2,0,0,0
+1729084965339,345,Delete User,204,No Content,Thread Group - Reqres 1-9,,true,,796,237,10,10,https://reqres.in/api/users/2,0,0,0
+1729084965678,600,Visit Bing - Handling Cookies ,200,OK,Thread Group - Reqres 1-5,text,true,,166606,226,10,10,https://www.bing.com/,232,0,61
+1729084965726,600,Visit Bing - Handling Cookies ,200,OK,Thread Group - Reqres 1-10,text,true,,168401,226,10,10,https://www.bing.com/,233,0,43
+1729084965725,758,Visit Bing - Handling Cookies ,200,OK,Thread Group - Reqres 1-1,text,true,,166978,226,10,10,https://www.bing.com/,230,0,43
+1729084965710,907,Visit Bing - Handling Cookies ,200,OK,Thread Group - Reqres 1-7,text,true,,167264,226,10,10,https://www.bing.com/,629,0,125
+1729084965709,998,Visit Bing - Handling Cookies ,200,OK,Thread Group - Reqres 1-2,text,true,,168982,226,10,10,https://www.bing.com/,237,0,44
+1729084965709,1061,Visit Bing - Handling Cookies ,200,OK,Thread Group - Reqres 1-3,text,true,,466715,226,10,10,https://www.bing.com/,231,0,41
+1729084965693,1086,Visit Bing - Handling Cookies ,200,OK,Thread Group - Reqres 1-4,text,true,,172422,226,10,10,https://www.bing.com/,219,0,49
+1729084965800,983,Visit Bing - Handling Cookies ,200,OK,Thread Group - Reqres 1-9,text,true,,168178,226,10,10,https://www.bing.com/,543,0,50
+1729084965693,1161,Visit Bing - Handling Cookies ,200,OK,Thread Group - Reqres 1-8,text,true,,167143,226,10,10,https://www.bing.com/,255,0,47
+1729084965725,1848,Visit Bing - Handling Cookies ,200,OK,Thread Group - Reqres 1-6,text,true,,464522,226,10,10,https://www.bing.com/,523,0,37
+1729084967678,1226,Visit Perftractor - Handling Cache,200,OK,Thread Group - Reqres 1-6,text,true,,662774,1183,10,10,https://www.perftractor.xyz/,173,0,92
+1729084967678,177,Visit Perftractor - Handling Cache-0,200,OK,Thread Group - Reqres 1-6,text,true,,25283,214,10,10,https://www.perftractor.xyz/,173,0,92
+1729084967859,165,Visit Perftractor - Handling Cache-1,200,OK,Thread Group - Reqres 1-6,bin,true,,166037,237,10,10,https://www.perftractor.xyz/img/qainsights-logo.png,46,0,0
+1729084968026,149,Visit Perftractor - Handling Cache-2,200,OK,Thread Group - Reqres 1-6,text,true,,80458,244,10,10,https://www.perftractor.xyz/assets/css/styles.420e3ff9.css,46,0,0
+1729084968240,47,Visit Perftractor - Handling Cache-3,200,OK,Thread Group - Reqres 1-6,text,true,,5612,248,10,10,https://www.perftractor.xyz/assets/js/runtime~main.f7be46d6.js,46,0,0
+1729084968288,616,Visit Perftractor - Handling Cache-4,200,OK,Thread Group - Reqres 1-6,text,true,,385384,240,10,10,https://www.perftractor.xyz/assets/js/main.3d52b7f6.js,47,0,0
+1729084966888,2165,Visit Perftractor - Handling Cache,200,OK,Thread Group - Reqres 1-4,text,true,,662774,1183,9,9,https://www.perftractor.xyz/,140,0,91
+1729084966888,149,Visit Perftractor - Handling Cache-0,200,OK,Thread Group - Reqres 1-4,text,true,,25283,214,9,9,https://www.perftractor.xyz/,140,0,91
+1729084967047,330,Visit Perftractor - Handling Cache-1,200,OK,Thread Group - Reqres 1-4,bin,true,,166037,237,9,9,https://www.perftractor.xyz/img/qainsights-logo.png,47,0,0
+1729084967378,187,Visit Perftractor - Handling Cache-2,200,OK,Thread Group - Reqres 1-4,text,true,,80458,244,9,9,https://www.perftractor.xyz/assets/css/styles.420e3ff9.css,43,0,0
+1729084968240,46,Visit Perftractor - Handling Cache-3,200,OK,Thread Group - Reqres 1-4,text,true,,5612,248,9,9,https://www.perftractor.xyz/assets/js/runtime~main.f7be46d6.js,46,0,0
+1729084968287,766,Visit Perftractor - Handling Cache-4,200,OK,Thread Group - Reqres 1-4,text,true,,385384,240,9,9,https://www.perftractor.xyz/assets/js/main.3d52b7f6.js,44,0,0
+1729084966968,2562,Visit Perftractor - Handling Cache,200,OK,Thread Group - Reqres 1-8,text,true,,662774,1183,8,8,https://www.perftractor.xyz/,426,0,118
+1729084966968,563,Visit Perftractor - Handling Cache-0,200,OK,Thread Group - Reqres 1-8,text,true,,25283,214,8,8,https://www.perftractor.xyz/,426,0,118
+1729084967534,312,Visit Perftractor - Handling Cache-1,200,OK,Thread Group - Reqres 1-8,bin,true,,166037,237,8,8,https://www.perftractor.xyz/img/qainsights-logo.png,67,0,0
+1729084967848,250,Visit Perftractor - Handling Cache-2,200,OK,Thread Group - Reqres 1-8,text,true,,80458,244,8,8,https://www.perftractor.xyz/assets/css/styles.420e3ff9.css,55,0,0
+1729084968241,55,Visit Perftractor - Handling Cache-3,200,OK,Thread Group - Reqres 1-8,text,true,,5612,248,8,8,https://www.perftractor.xyz/assets/js/runtime~main.f7be46d6.js,55,0,0
+1729084968297,1233,Visit Perftractor - Handling Cache-4,200,OK,Thread Group - Reqres 1-8,text,true,,385384,240,8,8,https://www.perftractor.xyz/assets/js/main.3d52b7f6.js,94,0,0
+1729084966888,2786,Visit Perftractor - Handling Cache,200,OK,Thread Group - Reqres 1-9,text,true,,662774,1183,7,7,https://www.perftractor.xyz/,161,0,108
+1729084966888,163,Visit Perftractor - Handling Cache-0,200,OK,Thread Group - Reqres 1-9,text,true,,25283,214,7,7,https://www.perftractor.xyz/,161,0,108
+1729084967060,820,Visit Perftractor - Handling Cache-1,200,OK,Thread Group - Reqres 1-9,bin,true,,166037,237,7,7,https://www.perftractor.xyz/img/qainsights-logo.png,337,0,0
+1729084967882,247,Visit Perftractor - Handling Cache-2,200,OK,Thread Group - Reqres 1-9,text,true,,80458,244,7,7,https://www.perftractor.xyz/assets/css/styles.420e3ff9.css,51,0,0
+1729084968241,63,Visit Perftractor - Handling Cache-3,200,OK,Thread Group - Reqres 1-9,text,true,,5612,248,7,7,https://www.perftractor.xyz/assets/js/runtime~main.f7be46d6.js,52,0,0
+1729084968305,1369,Visit Perftractor - Handling Cache-4,200,OK,Thread Group - Reqres 1-9,text,true,,385384,240,7,7,https://www.perftractor.xyz/assets/js/main.3d52b7f6.js,125,0,0
+1729084966874,2976,Visit Perftractor - Handling Cache,200,OK,Thread Group - Reqres 1-3,text,true,,662774,1183,6,6,https://www.perftractor.xyz/,179,0,119
+1729084966874,182,Visit Perftractor - Handling Cache-0,200,OK,Thread Group - Reqres 1-3,text,true,,25283,214,6,6,https://www.perftractor.xyz/,179,0,119
+1729084967064,1072,Visit Perftractor - Handling Cache-1,200,OK,Thread Group - Reqres 1-3,bin,true,,166037,237,6,6,https://www.perftractor.xyz/img/qainsights-logo.png,386,0,0
+1729084968137,214,Visit Perftractor - Handling Cache-2,200,OK,Thread Group - Reqres 1-3,text,true,,80458,244,6,6,https://www.perftractor.xyz/assets/css/styles.420e3ff9.css,78,0,0
+1729084968352,328,Visit Perftractor - Handling Cache-3,200,OK,Thread Group - Reqres 1-3,text,true,,5612,248,6,6,https://www.perftractor.xyz/assets/js/runtime~main.f7be46d6.js,94,0,0
+1729084968681,1169,Visit Perftractor - Handling Cache-4,200,OK,Thread Group - Reqres 1-3,text,true,,385384,240,6,6,https://www.perftractor.xyz/assets/js/main.3d52b7f6.js,125,0,0
+1729084966595,3352,Visit Perftractor - Handling Cache,200,OK,Thread Group - Reqres 1-1,text,true,,662774,1183,5,5,https://www.perftractor.xyz/,420,0,354
+1729084966595,422,Visit Perftractor - Handling Cache-0,200,OK,Thread Group - Reqres 1-1,text,true,,25283,214,5,5,https://www.perftractor.xyz/,420,0,354
+1729084967038,502,Visit Perftractor - Handling Cache-1,200,OK,Thread Group - Reqres 1-1,bin,true,,166037,237,5,5,https://www.perftractor.xyz/img/qainsights-logo.png,55,0,0
+1729084967541,222,Visit Perftractor - Handling Cache-2,200,OK,Thread Group - Reqres 1-1,text,true,,80458,244,5,5,https://www.perftractor.xyz/assets/css/styles.420e3ff9.css,65,0,0
+1729084968240,61,Visit Perftractor - Handling Cache-3,200,OK,Thread Group - Reqres 1-1,text,true,,5612,248,5,5,https://www.perftractor.xyz/assets/js/runtime~main.f7be46d6.js,61,0,0
+1729084968302,1645,Visit Perftractor - Handling Cache-4,200,OK,Thread Group - Reqres 1-1,text,true,,385384,240,5,5,https://www.perftractor.xyz/assets/js/main.3d52b7f6.js,390,0,0
+1729084966812,3166,Visit Perftractor - Handling Cache,200,OK,Thread Group - Reqres 1-2,text,true,,662774,1183,4,4,https://www.perftractor.xyz/,161,0,109
+1729084966812,163,Visit Perftractor - Handling Cache-0,200,OK,Thread Group - Reqres 1-2,text,true,,25283,214,4,4,https://www.perftractor.xyz/,161,0,109
+1729084967038,306,Visit Perftractor - Handling Cache-1,200,OK,Thread Group - Reqres 1-2,bin,true,,166037,237,4,4,https://www.perftractor.xyz/img/qainsights-logo.png,56,0,0
+1729084967345,229,Visit Perftractor - Handling Cache-2,200,OK,Thread Group - Reqres 1-2,text,true,,80458,244,4,4,https://www.perftractor.xyz/assets/css/styles.420e3ff9.css,87,0,0
+1729084968241,57,Visit Perftractor - Handling Cache-3,200,OK,Thread Group - Reqres 1-2,text,true,,5612,248,4,4,https://www.perftractor.xyz/assets/js/runtime~main.f7be46d6.js,56,0,0
+1729084968299,1679,Visit Perftractor - Handling Cache-4,200,OK,Thread Group - Reqres 1-2,text,true,,385384,240,4,4,https://www.perftractor.xyz/assets/js/main.3d52b7f6.js,352,0,0
+1729084966395,3657,Visit Perftractor - Handling Cache,200,OK,Thread Group - Reqres 1-5,text,true,,662774,1183,3,3,https://www.perftractor.xyz/,470,0,397
+1729084966395,472,Visit Perftractor - Handling Cache-0,200,OK,Thread Group - Reqres 1-5,text,true,,25283,214,3,3,https://www.perftractor.xyz/,470,0,397
+1729084967038,579,Visit Perftractor - Handling Cache-1,200,OK,Thread Group - Reqres 1-5,bin,true,,166037,237,3,3,https://www.perftractor.xyz/img/qainsights-logo.png,52,0,0
+1729084967618,181,Visit Perftractor - Handling Cache-2,200,OK,Thread Group - Reqres 1-5,text,true,,80458,244,3,3,https://www.perftractor.xyz/assets/css/styles.420e3ff9.css,60,0,0
+1729084968240,66,Visit Perftractor - Handling Cache-3,200,OK,Thread Group - Reqres 1-5,text,true,,5612,248,3,3,https://www.perftractor.xyz/assets/js/runtime~main.f7be46d6.js,53,0,0
+1729084968307,1745,Visit Perftractor - Handling Cache-4,200,OK,Thread Group - Reqres 1-5,text,true,,385384,240,3,3,https://www.perftractor.xyz/assets/js/main.3d52b7f6.js,48,0,0
+1729084966441,3634,Visit Perftractor - Handling Cache,200,OK,Thread Group - Reqres 1-10,text,true,,662774,1183,2,2,https://www.perftractor.xyz/,435,0,371
+1729084966441,436,Visit Perftractor - Handling Cache-0,200,OK,Thread Group - Reqres 1-10,text,true,,25283,214,2,2,https://www.perftractor.xyz/,435,0,371
+1729084967039,1300,Visit Perftractor - Handling Cache-1,200,OK,Thread Group - Reqres 1-10,bin,true,,166037,237,2,2,https://www.perftractor.xyz/img/qainsights-logo.png,69,0,0
+1729084968340,525,Visit Perftractor - Handling Cache-2,200,OK,Thread Group - Reqres 1-10,text,true,,80458,244,2,2,https://www.perftractor.xyz/assets/css/styles.420e3ff9.css,120,0,0
+1729084968867,138,Visit Perftractor - Handling Cache-3,200,OK,Thread Group - Reqres 1-10,text,true,,5612,248,2,2,https://www.perftractor.xyz/assets/js/runtime~main.f7be46d6.js,137,0,0
+1729084969005,1070,Visit Perftractor - Handling Cache-4,200,OK,Thread Group - Reqres 1-10,text,true,,385384,240,2,2,https://www.perftractor.xyz/assets/js/main.3d52b7f6.js,70,0,0
+1729084966734,3603,Visit Perftractor - Handling Cache,200,OK,Thread Group - Reqres 1-7,text,true,,662774,1183,1,1,https://www.perftractor.xyz/,183,0,129
+1729084966734,185,Visit Perftractor - Handling Cache-0,200,OK,Thread Group - Reqres 1-7,text,true,,25283,214,1,1,https://www.perftractor.xyz/,183,0,129
+1729084967038,404,Visit Perftractor - Handling Cache-1,200,OK,Thread Group - Reqres 1-7,bin,true,,166037,237,1,1,https://www.perftractor.xyz/img/qainsights-logo.png,70,0,0
+1729084967442,655,Visit Perftractor - Handling Cache-2,200,OK,Thread Group - Reqres 1-7,text,true,,80458,244,1,1,https://www.perftractor.xyz/assets/css/styles.420e3ff9.css,370,0,0
+1729084968241,67,Visit Perftractor - Handling Cache-3,200,OK,Thread Group - Reqres 1-7,text,true,,5612,248,1,1,https://www.perftractor.xyz/assets/js/runtime~main.f7be46d6.js,67,0,0
+1729084968309,2028,Visit Perftractor - Handling Cache-4,200,OK,Thread Group - Reqres 1-7,text,true,,385384,240,1,1,https://www.perftractor.xyz/assets/js/main.3d52b7f6.js,789,0,0
